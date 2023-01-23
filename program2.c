@@ -16,5 +16,5 @@ int main() {
     printf("c: %d is smallest\n", c);
   return 0;
 
-  return 0;
+  return 0; 
 }
