@@ -44,6 +44,6 @@ int main()
         printf("Root1 = %.2f+%.2fi and Root2 = %.2f-%.2fi", realvar,
         imagvar, realvar, imagvar);
      }
-
+ 
     return 0;
 }
