@@ -17,5 +17,5 @@ int main() {
 
   printf("The distance between given two points=%f", dist);
 
-  return (0); 
+  return (0);  
 }
