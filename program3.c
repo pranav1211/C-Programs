@@ -6,16 +6,9 @@ int main()
     float root1,root2;
     float realvar,imagvar,sqt;
     
-    printf("Enter coefficients:\n");
-    
-    printf("a:");
-    scanf("%f",&a);
-    
-    printf("b:");
-    scanf("%f",&b);
-    
-    printf("c:");
-    scanf("%f",&c);
+    printf("Enter coefficients a, b and c: ");
+    scanf("%f %f %f", &a, &b, &c);
+
 
     sqt=(b*b)-(4*a*c);
     
