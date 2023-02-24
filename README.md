@@ -1,2 +1,2 @@
 # C-Programs
-Contains C programs from college
+Contains basic C programs 
